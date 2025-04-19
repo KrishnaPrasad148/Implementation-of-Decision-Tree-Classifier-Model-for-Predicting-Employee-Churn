@@ -72,6 +72,7 @@ dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
 ## Output:
 
 ### DATASET:
+
 ![alt text](Dataset.png)
 
 ![alt text](<Data Info.png>)
@@ -81,9 +82,11 @@ dt.predict([[0.5,0.8,9,260, 6,0,1,2]])
 ![alt text](count_left.png)
 
 ### LABELLED DATA:
+
 ![alt text](<Labeled Data.png>)
 
 ### ACCURACY:
+
 ![alt text](Accuracy.png)
 
 ![alt text](Predict.png)
